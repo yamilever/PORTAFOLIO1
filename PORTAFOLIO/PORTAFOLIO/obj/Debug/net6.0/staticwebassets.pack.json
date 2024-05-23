@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\yamil arguedas\\Documents\\Portafolio\\portafolio\\PORTAFOLIO\\wwwroot\\imagenes\\foto.png",
+      "PackagePath": "staticwebassets\\imagenes\\foto.png"
+    },
+    {
       "Id": "C:\\Users\\yamil arguedas\\Documents\\Portafolio\\portafolio\\PORTAFOLIO\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
