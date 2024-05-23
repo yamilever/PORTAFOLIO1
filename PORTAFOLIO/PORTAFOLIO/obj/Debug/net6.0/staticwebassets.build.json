@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Xwi7Nqw59/aFRdE7Qi3zZosIzF7qeB47Vwh+aeVT/1M=",
+  "Hash": "1bHkvtwSxjXZ8W/YCsvnuWzqUQ7s9X38VJPUb11s8ZQ=",
   "Source": "PORTAFOLIO",
   "BasePath": "_content/PORTAFOLIO",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\yamil arguedas\\Documents\\Portafolio\\portafolio\\PORTAFOLIO\\wwwroot\\css\\StyleSheet.css",
+      "SourceId": "PORTAFOLIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yamil arguedas\\Documents\\Portafolio\\portafolio\\PORTAFOLIO\\wwwroot\\",
+      "BasePath": "_content/PORTAFOLIO",
+      "RelativePath": "css/StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
     },
     {
       "Identity": "C:\\Users\\yamil arguedas\\Documents\\Portafolio\\portafolio\\PORTAFOLIO\\wwwroot\\favicon.ico",
