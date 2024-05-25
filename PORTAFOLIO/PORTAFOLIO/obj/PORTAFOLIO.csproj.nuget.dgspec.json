@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yamil arguedas\\Documents\\Portafolio\\portafolio\\PORTAFOLIO\\PORTAFOLIO.csproj": {}
+    "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yamil arguedas\\Documents\\Portafolio\\portafolio\\PORTAFOLIO\\PORTAFOLIO.csproj": {
+    "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yamil arguedas\\Documents\\Portafolio\\portafolio\\PORTAFOLIO\\PORTAFOLIO.csproj",
+        "projectUniqueName": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO.csproj",
         "projectName": "PORTAFOLIO",
-        "projectPath": "C:\\Users\\yamil arguedas\\Documents\\Portafolio\\portafolio\\PORTAFOLIO\\PORTAFOLIO.csproj",
+        "projectPath": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO.csproj",
         "packagesPath": "C:\\Users\\yamil arguedas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yamil arguedas\\Documents\\Portafolio\\portafolio\\PORTAFOLIO\\obj\\",
+        "outputPath": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yamil arguedas\\AppData\\Roaming\\NuGet\\NuGet.Config",
