@@ -16,13 +16,8 @@ namespace PORTAFOLIO.Controllers
         public IActionResult Index()
         {
 
-            var persona = new Persona()
-            {
-                Nombre = "Yamil Arguedas",
-                Edad = 18
-            };
-
-            return View(persona);
+            
+            return View();
         }
 
         public IActionResult Privacy()
