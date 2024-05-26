@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nfCy1Wpt+zlZb2at8mgPAjTj56hB6NeCL+jVhZrz18g=",
+  "Hash": "biviq/KWcsCuVbvu8ws7LN3KHA55xDhbklSTlTpM6/k=",
   "Source": "PORTAFOLIO",
   "BasePath": "_content/PORTAFOLIO",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PORTAFOLIO.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\wwwroot\\css\\Custom.css",
+      "SourceId": "PORTAFOLIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\wwwroot\\",
+      "BasePath": "_content/PORTAFOLIO",
+      "RelativePath": "css/Custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Custom.css"
+    },
+    {
       "Identity": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\wwwroot\\css\\site.css",
       "SourceId": "PORTAFOLIO",
       "SourceType": "Discovered",
@@ -72,25 +91,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
-      "Identity": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\wwwroot\\css\\StyleSheet.css",
-      "SourceId": "PORTAFOLIO",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\wwwroot\\",
-      "BasePath": "_content/PORTAFOLIO",
-      "RelativePath": "css/StyleSheet.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
     },
     {
       "Identity": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\wwwroot\\favicon.ico",
