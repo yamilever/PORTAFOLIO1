@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "biviq/KWcsCuVbvu8ws7LN3KHA55xDhbklSTlTpM6/k=",
+  "Hash": "HdxqC0OBHVg9PCo47pQfFudLMZgcbN8ENrqqGmBLVGc=",
   "Source": "PORTAFOLIO",
   "BasePath": "_content/PORTAFOLIO",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\wwwroot\\imagenes\\dotnet-imagen-2.png",
+      "SourceId": "PORTAFOLIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\wwwroot\\",
+      "BasePath": "_content/PORTAFOLIO",
+      "RelativePath": "imagenes/dotnet-imagen-2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\dotnet-imagen-2.png"
     },
     {
       "Identity": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\wwwroot\\imagenes\\foto.png",

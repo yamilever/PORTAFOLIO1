@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\yamil arguedas\\documents\\portafolio\\portafolio\\portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\yamil arguedas\\documents\\portafolio\\portafolio\\portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\yamil arguedas\\documents\\portafolio\\portafolio\\portafolio\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\yamil arguedas\\documents\\portafolio\\portafolio\\portafolio\\views\\home\\_h.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\views\\home\\_h.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\yamil arguedas\\documents\\portafolio\\portafolio\\portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\yamil arguedas\\documents\\portafolio\\portafolio\\portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\yamil arguedas\\documents\\portafolio\\portafolio\\portafolio\\portafolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\portafolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\yamil arguedas\\documents\\portafolio\\portafolio\\portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\yamil arguedas\\documents\\portafolio\\portafolio\\portafolio\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\yamil arguedas\\documents\\portafolio\\portafolio\\portafolio\\portafolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\portafolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\yamil arguedas\\documents\\portafolio\\portafolio\\portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,17 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PORTAFOLIO\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PORTAFOLIO\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-23T03:06:16.521Z",
               "IsPinned": true,
@@ -52,20 +60,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "_H.cshtml",
+              "DocumentMoniker": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\_H.cshtml",
+              "RelativeDocumentMoniker": "PORTAFOLIO\\Views\\Home\\_H.cshtml",
+              "ToolTip": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\_H.cshtml",
+              "RelativeToolTip": "PORTAFOLIO\\Views\\Home\\_H.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T18:23:43.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Custom.css",
               "DocumentMoniker": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\wwwroot\\css\\Custom.css",
               "RelativeDocumentMoniker": "PORTAFOLIO\\wwwroot\\css\\Custom.css",
               "ToolTip": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\wwwroot\\css\\Custom.css",
               "RelativeToolTip": "PORTAFOLIO\\wwwroot\\css\\Custom.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAPAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-26T16:10:24.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T16:10:24.612Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\Models\\Persona.cs",
               "RelativeDocumentMoniker": "PORTAFOLIO\\Models\\Persona.cs",
@@ -73,11 +101,12 @@
               "RelativeToolTip": "PORTAFOLIO\\Models\\Persona.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T02:08:09.915Z"
+              "WhenOpened": "2024-05-25T02:08:09.915Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "PORTAFOLIO\\Controllers\\HomeController.cs",
@@ -89,13 +118,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PORTAFOLIO\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "PORTAFOLIO\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEAAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-23T01:05:19.85Z",
               "EditorCaption": ""
@@ -103,6 +132,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "_Presentacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\_Presentacion.cshtml",
+              "RelativeDocumentMoniker": "PORTAFOLIO\\Views\\Home\\_Presentacion.cshtml",
+              "ToolTip": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\_Presentacion.cshtml",
+              "RelativeToolTip": "PORTAFOLIO\\Views\\Home\\_Presentacion.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T18:03:58.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PORTAFOLIO.csproj",
               "DocumentMoniker": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO.csproj",
               "RelativeDocumentMoniker": "PORTAFOLIO\\PORTAFOLIO.csproj",
@@ -110,8 +152,7 @@
               "RelativeToolTip": "PORTAFOLIO\\PORTAFOLIO.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-25T01:42:22.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T01:42:22.954Z"
             }
           ]
         }
