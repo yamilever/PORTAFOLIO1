@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\yamil arguedas\\documents\\portafolio\\portafolio\\portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\yamil arguedas\\documents\\portafolio\\portafolio\\portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\yamil arguedas\\documents\\portafolio\\portafolio\\portafolio\\servicios\\repositorioproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\servicios\\repositorioproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\yamil arguedas\\documents\\portafolio\\portafolio\\portafolio\\views\\home\\_seccionproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\views\\home\\_seccionproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\yamil arguedas\\documents\\portafolio\\portafolio\\portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +26,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "RepositorioProyectos.cs",
+              "DocumentMoniker": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\Servicios\\RepositorioProyectos.cs",
+              "RelativeDocumentMoniker": "PORTAFOLIO\\Servicios\\RepositorioProyectos.cs",
+              "ToolTip": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\Servicios\\RepositorioProyectos.cs",
+              "RelativeToolTip": "PORTAFOLIO\\Servicios\\RepositorioProyectos.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:55:30.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PORTAFOLIO\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PORTAFOLIO\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:46:02.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_SeccionProyectos.cshtml",
               "DocumentMoniker": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\_SeccionProyectos.cshtml",
               "RelativeDocumentMoniker": "PORTAFOLIO\\Views\\Home\\_SeccionProyectos.cshtml",
@@ -35,13 +77,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PORTAFOLIO\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\yamil arguedas\\Documents\\PORTAFOLIO\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "PORTAFOLIO\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-26T21:27:50.87Z",
               "EditorCaption": ""
