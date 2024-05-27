@@ -38,7 +38,11 @@ namespace PORTAFOLIO.Controllers
         [HttpPost]
         public IActionResult Contacto(Contactos contactos)
         {
-            return View();
+            return RedirectToAction("Gracias");
+        }
+        public IActionResult Gracias()
+        {
+            return View(); 
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
