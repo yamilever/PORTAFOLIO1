@@ -30,8 +30,13 @@ namespace PORTAFOLIO.Controllers
 
             return View(proyectos);
         }
-            
+        [HttpGet]   
         public IActionResult Contacto()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Contacto(Contactos contactos)
         {
             return View();
         }
